@@ -1,0 +1,15 @@
+/* Reset CSS */
+
+.text-container ul li {
+    list-style: none;
+}
+
+.text-container button {
+    border: solid;
+     border-color: cornflowerblue; 
+     height: 50px;
+      width: 130px;
+       background-color:
+        cornflowerblue; 
+        color: white;
+}

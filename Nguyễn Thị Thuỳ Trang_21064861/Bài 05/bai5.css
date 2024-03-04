@@ -1,0 +1,13 @@
+.text {
+    text-align: center; 
+    color: white;
+}
+
+.text button {
+    border: solid; 
+    border-color: red;
+     height: 40px;
+      width: 150px;
+       background-color: red; 
+       color: white;
+}

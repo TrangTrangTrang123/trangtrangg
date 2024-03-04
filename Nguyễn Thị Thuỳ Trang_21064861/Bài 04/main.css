@@ -1,0 +1,30 @@
+.list-social a{
+    font-size: 30px;
+    color: hotpink;
+    text-align: center;
+}
+
+.text {
+    text-align: center;
+    color:black;
+}
+
+.button button1 {
+    text-align: center;
+    border-color: grey;
+     height: 40px; 
+     width: 300px; 
+     background-color: grey; 
+     color: white;
+}
+.button button {
+    text-align: center;
+    border: solid; 
+    border-color: blue;
+    height: 40px;
+     width: 120px; 
+     background-color: blue; 
+      color: white;
+}
+
+
